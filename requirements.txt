@@ -1,3 +1,5 @@
-discord.py
-aiohttp
-PyNaCl
+discord.py[voice]==2.3.2
+PyNaCl==1.5.0
+audioop-lts==0.2.1
+yt-dlp==2023.12.30
+python-dotenv
